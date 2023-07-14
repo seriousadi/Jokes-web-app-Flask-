@@ -11,15 +11,16 @@ font-size:4rem;
 color:#922FA8;
 }
 
-h2{
+body,h2{
 font-size:10rem;
 }
 
 button{
-width:10rem;
-height:2rem;
-background-color:#F5C652;
+width:15rem;
+height:4rem;
+background-color:#28C9EB;
 border-radius:0.3rem;
+font-size:1.5rem;
 }
 
 button:hover{
